@@ -1,0 +1,1 @@
+I am JARVIS, a native Python voice assistant created for a college lab project by a two-member team.
