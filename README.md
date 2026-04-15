@@ -18,4 +18,4 @@ This is a college lab project.
 1. `pip install -r requirements.txt`
 2. Run `python main.py`
 3. Edit `src/features/weather.py` to add your OpenWeatherMap API key.
-4. Directly run using the app icon on jarvis->dist
+4. Directly run using the app icon on jarvis->dist folder
